@@ -1,10 +1,10 @@
-# simple_pomodoro
+# Simple Pomodoro
 
-A new Flutter project.
+Simple pomodoro timer app built with flutter.
 
-## Getting Started
+| ![](assets/screenshot1.png) | ![](assets/screenshot2.png) | ![](assets/screenshot3.png) | ![](assets/screenshot4.png) |
+|:---:|:---:|:---:|:---:|
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
